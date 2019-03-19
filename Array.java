@@ -1,11 +1,5 @@
-package com.mayl.algs.array;
-
 import java.util.Scanner;
 
-/**
- * @author mayuliang
- * @date 2018/10/22
- */
 public class Array {
     /**
      * data 定义整型数组保存数据
